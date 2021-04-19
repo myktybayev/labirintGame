@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="q1">
+        <item>Кегельрингтегі міндетті атрибуттардың бірі</item>
+        <item>кегель</item>
+        <item>алаң</item>
+        <item>датчик</item>
+    </string-array>
+
+    <string-array name="q2">
+        <item>Әртүрлі ақпаратты өлшеуге арналған құрал</item>
+        <item>датчик</item>
+        <item>сенсор</item>
+        <item>мотор</item>
+    </string-array>
+
+    <string-array name="q3">
+        <item>Программалық жасақтама</item>
+        <item>робот</item>
+        <item>сымдар(кабель)</item>
+        <item>түс датчигі</item>
+
+    </string-array>
+
+    <string-array name="q4">
+        <item>Кегельрингтегі сақина шеңбері</item>
+        <item>ринг</item>
+        <item>түзу сызық</item>
+        <item>дұрыс жауап жоқ</item>
+    </string-array>
+
+    <string-array name="q5">
+        <item>Робототехникадағы Кегельринг</item>
+        <item>жарыс</item>
+        <item>саптық жүріс</item>
+        <item>қисық сызық бойымен жүру</item>
+    </string-array>
+
+    <string-array name="q6">
+        <item>Әртүрлі өткелдер мен жолдар арқылы берілген шатасқан күрделі құрылым</item>
+        <item>лабиринт</item>
+        <item>роботтар арасындағы байланыс</item>
+        <item>жұмбақ</item>
+    </string-array>
+
+    <string-array name="q7">
+        <item>Батырманың баслығанын не басылмағанын анықтайтын, есептейтін датчик</item>
+        <item>жанасу</item>
+        <item>түс</item>
+        <item>ультрадыбыс датчигі</item>
+    </string-array>
+
+    <string-array name="q8">
+        <item>Түстерді анықтайтын, шашыраңқы, шағылысқан жарықты өлшейтін датчик</item>
+        <item>түс</item>
+        <item>жанасу</item>
+        <item>дыбыс</item>
+    </string-array>
+
+</resources>
